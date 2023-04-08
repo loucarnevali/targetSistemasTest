@@ -1,3 +1,3 @@
 # Target Sistemas
 
-## Repositório referente aos teste da Target Sistemas.
+## Repositório referente aos testes da Target Sistemas.
